@@ -9,6 +9,16 @@
 <body>
 	<h2>Hello There Welcome to Spring MVC</h2> 
 	<a href="hello">Click Here</a>
-	<a href="hi">Click Here</a>
+	
+	<br><br>
+	<h4>
+	<a href="hi?id=10&name=karthik">Click Here</a>
+	</h4>
+	
+	<!-- Ex:-
+	
+	registration form -> enter the details -> collect data -> DB -> response
+	
+	View Profile -> search profile -> fetch profile -> send as a response-> -->
 </body>
 </html>
