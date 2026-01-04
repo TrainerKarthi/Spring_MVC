@@ -8,7 +8,7 @@
 </head>
 <body>
 	
-	<form action="emp_submit">
+	<form action="save_emp">
 		Enter your Name: <input type="text" name="name" > <br> <br>
 		Enter your age: <input type="number" name="age" > <br> <br>
 		Enter your gender: <input type="text" name="gender" > <br> <br>

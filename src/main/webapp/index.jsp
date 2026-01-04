@@ -15,6 +15,15 @@
 	<a href="hi?id=10&name=karthik">Click Here</a>
 	</h4>
 	
+	
+	<a href="sendData">View Profile</a>
+	
+	<a href="my_orders">View Orders</a>
+	
+	
+	<a href="form">Register Employee</a>
+	<a href="View_Employees">View</a>
+	
 	<!-- Ex:-
 	
 	registration form -> enter the details -> collect data -> DB -> response
